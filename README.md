@@ -11,7 +11,7 @@ I'm at the moment coursing the tenth period of Computer Engineering on Universid
 
 In the last few years i focused on Back-end Development, even though i had more front-end working experience. Also, i start to go deep on Cloud Services and Server management while working on my Graduation Final Paper, that includes deep learning applied in a mobile application.
 
-I'm always ready to learn another technology or improve any knowledgement that i already have, i consider myself as an enthusiastic.
+I'm always ready to learn another technology or improve any knowledgement that i already have, i consider myself as an enthusiastic. I'm also a videogame fan, if you want to see one of my reviews: https://howlongtobeat.com/user/serjola
 
 The technologies i'm now studying actively: 
 
