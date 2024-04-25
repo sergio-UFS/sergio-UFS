@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="drawing" width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="drawing" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="drawing" width="50"/>
